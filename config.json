@@ -1,0 +1,8 @@
+{
+    "name": "dataroute-service",
+    "version": "1.0.441",
+    "private": false,
+    "environment": "production",
+    "build_id": 653,
+    "allow_public_access": true
+}
